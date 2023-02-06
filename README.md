@@ -1,4 +1,6 @@
-# Transitions_CSS
+<h1 align="center">
+   Transitions_CSS
+</h1>
 
 Esse projeto foi desenvolvido em HTML e CSS com a tutoria da Gabriela Pinheiro da Digital Innovation One.  
 Nele foram explorados conceitos CSS como pseudo elementos, pseudo classes e recursos de animação como transitions.   
